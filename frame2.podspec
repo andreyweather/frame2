@@ -13,6 +13,10 @@ Pod::Spec.new do |spec|
   spec.version      = "0.0.1"
   spec.summary      = "This test framework for ios app"
 
+ spec.description  = <<-DESC
+  This test framework for ios app
+                   DESC
+
   spec.homepage     = "https://enkod.io"
 
   spec.license      = { :type => "MIT", :file => "LICENSE" }
