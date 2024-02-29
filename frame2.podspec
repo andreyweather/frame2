@@ -11,7 +11,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "frame2"
   spec.version      = "0.0.1"
-  spec.summary      = "This test framework for ios app"
+  spec.summary      = "Test pod file frame2."
 
  spec.description  = <<-DESC
   This test framework for ios app
