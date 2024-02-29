@@ -11,7 +11,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "frame2"
   spec.version      = "0.0.1"
-  spec.summary      = "A short description of frame2."
+  spec.summary      = "This test framework for ios app"
 
   spec.homepage     = "https://enkod.io"
 
